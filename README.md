@@ -172,7 +172,6 @@ place an order for the same circuit design.
 > you to spot potential mistakes before it goes into production. You can
 > also **track order status in real-time.**
 >
-> ![](vertopal_8c101a3a47cf494f9c45c097f2a720e9/media/image39.png)
 > 
 > **Receive**
 >
